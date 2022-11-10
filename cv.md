@@ -16,7 +16,7 @@ enjoy inventing helpful things and become them to the reality.  I am currently 
 
 + ### ***Engineer-programmer*** (2018 - 2021)<br>
   **LTD "TASPO"**  http://www.taspo.by<br>
-  + Programming industrial robots
+  + Programming industrial robots and CNC machines
   + CAD, CAM Engineering 
 + ### ***Engineer-constructor*** (2021 - until now)<br> 
   **ALC "Eurolinia"** https://infra-heater.com
@@ -29,19 +29,17 @@ enjoy inventing helpful things and become them to the reality.  I am currently 
 Faculty of Information Technologies and Robotics (2013-2018)
   + Specialty: Industrial robot's and robotic complexes.
 + Rolling Scopes School
-  + JS/FE Pre-School( [Certificate](https://app.rs.school/certificate/vjk1yy8y))
+  + JavaScript/Front-End 2022Q1( [Certificate]([https://app.rs.school/certificate/vjk1yy8y](https://app.rs.school/certificate/byovbm6r)))
 
 ## ***Skills***
-
-+ HTML
-+ CSS
-+ JavaScript
-+ Git
-+ C#(basic skill)
-+ SolidWorks
-+ Autocad
-+ Creo Parametric
-+ ANSYS
++ JavaScript(4/5)
++ Typescript(4/5)
++ React(3/5)
++ Redux, Redux Toolkit(3/5)
++ Jest(3/5)
++ HTML(5/5)
++ CSS, SCSS(5/5)
++ Git(4/5)
 
 ## ***Languages***
 
