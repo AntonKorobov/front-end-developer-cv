@@ -10,7 +10,7 @@
 
 ## ***Summary***
 
-I am a technical designer in mechanical engineering. My passion is solving technical problems and working on complex projects. I enjoy inventing things and learn new technologies. Recently, I have finished The Rolling Scopes School courses 'JavaScript/Front-end 2022Q3' and 'React 2022Q3'. Currently I am trying to find myself in IT sphere as front-end developer.
+Technical designer in mechanical engineering. My passion is solving technical problems and working on complicated projects. I enjoy inventing things and learn new technologies. Recently, I have finished The Rolling Scopes School courses 'JavaScript/Front-end 2022Q3' and 'React 2022Q3'. Currently, I am trying to find myself in IT sphere as front-end developer.
 
 ## ***Education***
 
@@ -19,6 +19,16 @@ Faculty of Information Technologies and Robotics (2013-2018)
   + Specialty: Industrial robot's and robotic complexes.
 + Rolling Scopes School
   + JavaScript/Front-End 2022Q1 [Certificate](https://app.rs.school/certificate/byovbm6r)
+
+## ***Technical Skills***
++ JavaScript(4/5)
++ TypeScript(4/5)
++ React(3/5)
++ Redux, Redux Toolkit(3/5)
++ Jest(3/5)
++ HTML(4/5)
++ CSS, SCSS(4/5)
++ Git(4/5)
 
 ## ***Languages***
 
@@ -32,12 +42,12 @@ Faculty of Information Technologies and Robotics (2013-2018)
 + _Project-management-app_
   + Description: Trello-like application for managing tasks.
   + Used: React, TypeScript, Redux(Redux Toolkit, rtk Query), React-beautiful-dnd
-  + Link: https://github.com/NewAnton/React_Rick-and-Morty-API
+  + Link: https://github.com/NewAnton/project-management-app
 
 + _Rick-and-Morty-Search_
   + Description: Application for searching information from 'Rick and Morty API' using filters.
   + Used: React, TypeScript, Redux(Redux Toolkit), Rick and Morty API
-  + Link: https://github.com/NewAnton/project-management-app
+  + Link: https://github.com/NewAnton/React_Rick-and-Morty-API
 
 + _Online-store_
   + Description: Demo of book-store searching page. Search, filter and save goods in the cart.
@@ -54,19 +64,3 @@ Faculty of Information Technologies and Robotics (2013-2018)
   **ALC "Eurolinia"** https://infra-heater.com
   + Ifrared systems design
   + CAD, CAM Engineering
-
-## ***Hard Skills***
-+ JavaScript(4/5)
-+ TypeScript(4/5)
-+ React(3/5)
-+ Redux, Redux Toolkit(3/5)
-+ Jest(3/5)
-+ HTML(4/5)
-+ CSS, SCSS(4/5)
-+ Git(4/5)
-
-## ***Soft Skills***
-+ Responsibility
-+ Decision making
-+ Stress-resistant
-+ Self-motivation
